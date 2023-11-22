@@ -14,7 +14,7 @@
 
 [reference2](https://blog.csdn.net/weixin_43646592/article/details/130924280)
 
-![image-20231122181656918](C:\Users\24198\AppData\Roaming\Typora\typora-user-images\image-20231122181656918.png)
+![image-20231122181656918](.imgs\image-20231122181656918.png)
 
 ![image-20231122181738453](C:\Users\24198\AppData\Roaming\Typora\typora-user-images\image-20231122181738453.png)
 
