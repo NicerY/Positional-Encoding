@@ -15,14 +15,10 @@
 [reference2](https://blog.csdn.net/weixin_43646592/article/details/130924280)
 
 <div align=center>
-<img src="imgs/image-20231122181656918.png" width="500" height="276"/>
+<img src="imgs/image-20231122181656918.png" />
 </div>
 
 <div align=center>
-<img src="imgs/image-20231122181738453.png" width="500" height="276"/>
+<img src="imgs/image-20231122181738453.png" />
 </div>
-
-![image-20231122181656918](imgs\image-20231122181656918.png)
-
-![image-20231122181738453](imgs\image-20231122181738453.png)
 
